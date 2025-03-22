@@ -1,3 +1,8 @@
+// Lightspeed bypass
+for (let i = 1; i < 10000; i++) {
+    window.clearInterval(i);
+}
+
 let siteCache;
 
 document.addEventListener("DOMContentLoaded", async () => {
