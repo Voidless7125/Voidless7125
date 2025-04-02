@@ -1,15 +1,15 @@
 const CACHE_NAME = 'voidless-site-cache-v1';
 const urlsToCache = [
-    '/',
-    '/index.html',
-    '/about.html',
-    '/contact.html',
-    '/features.html',
-    '/projects.html',
-    '/style.css',
-    '/main.js',
-    '/navbar.html',
-    '/images/Logo.png'
+    'Voidless7125/',
+    'Voidless7125/index.html',
+    'Voidless7125/about.html',
+    'Voidless7125/contact.html',
+    'Voidless7125/features.html',
+    'Voidless7125/projects.html',
+    'Voidless7125/style.css',
+    'Voidless7125/main.js',
+    'Voidless7125/navbar.html',
+    'Voidless7125/images/Logo.png'
 ];
 
 self.addEventListener('install', event => {
